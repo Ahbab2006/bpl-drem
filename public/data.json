@@ -1,0 +1,47 @@
+[
+  {
+    "playerName": "Virat Kohli",
+    "playerImage": "https://thesportzplanet.com/wp-content/uploads/2024/04/DAVID-WARNER-DC.jpg",
+    "origin": "India",
+    "playerType": "Batsman",
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Right-handed",
+    "price": 500
+  },
+  {
+    "playerName": "Babar Azam",
+    "playerImage": "https://thesportzplanet.com/wp-content/uploads/2024/04/DAVID-WARNER-DC.jpg",
+    "origin": "Pakistan",
+    "playerType": "Batsman",
+    "bowlingStyle": "Right-arm off break",
+    "battingStyle": "Right-handed",
+    "price": 700
+  },
+  {
+    "playerName": "Shakib Al Hasan",
+    "playerImage": "https://thesportzplanet.com/wp-content/uploads/2024/04/DAVID-WARNER-DC.jpg",
+    "origin": "Bangladesh",
+    "playerType": "All-rounder",
+    "bowlingStyle": "Slow left-arm orthodox",
+    "battingStyle": "Left-handed",
+    "price": 800
+  },
+  {
+    "playerName": "Jasprit Bumrah",
+    "playerImage": "https://thesportzplanet.com/wp-content/uploads/2024/04/DAVID-WARNER-DC.jpg",
+    "origin": "India",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Right-handed",
+    "price": 300
+  },
+  {
+    "playerName": "Rashid Khan",
+    "playerImage": "https://thesportzplanet.com/wp-content/uploads/2024/04/DAVID-WARNER-DC.jpg",
+    "origin": "Afghanistan",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-arm leg break",
+    "battingStyle": "Right-handed",
+    "price": 400
+  }
+]
