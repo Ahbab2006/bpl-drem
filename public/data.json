@@ -1,7 +1,7 @@
 [
   {
     "playerName": "Virat Kohli",
-    "playerImage": "https://thesportzplanet.com/wp-content/uploads/2024/04/DAVID-WARNER-DC.jpg",
+    "playerImage": "https://static.toiimg.com/photo/119129076.cms",
     "origin": "India",
     "playerType": "Batsman",
     "bowlingStyle": "Right-arm medium",
@@ -10,7 +10,7 @@
   },
   {
     "playerName": "Babar Azam",
-    "playerImage": "https://thesportzplanet.com/wp-content/uploads/2024/04/DAVID-WARNER-DC.jpg",
+    "playerImage": "https://api.bdcrictime.com/Profile/babar-azam-12_10_2023.jpg",
     "origin": "Pakistan",
     "playerType": "Batsman",
     "bowlingStyle": "Right-arm off break",
@@ -19,7 +19,7 @@
   },
   {
     "playerName": "Shakib Al Hasan",
-    "playerImage": "https://thesportzplanet.com/wp-content/uploads/2024/04/DAVID-WARNER-DC.jpg",
+    "playerImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4e_GV8qllN4wnBr0uNCvUWG8hS53sQraADUWaX9FR7qUHPCpzL8z4vRNs&s=10",
     "origin": "Bangladesh",
     "playerType": "All-rounder",
     "bowlingStyle": "Slow left-arm orthodox",
@@ -28,7 +28,7 @@
   },
   {
     "playerName": "Jasprit Bumrah",
-    "playerImage": "https://thesportzplanet.com/wp-content/uploads/2024/04/DAVID-WARNER-DC.jpg",
+    "playerImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzTotu1DF_1branzHieAsYC4IPc4e1r9oKlJ7SWBc4eg&s=10",
     "origin": "India",
     "playerType": "Bowler",
     "bowlingStyle": "Right-arm fast",
@@ -37,7 +37,97 @@
   },
   {
     "playerName": "Rashid Khan",
-    "playerImage": "https://thesportzplanet.com/wp-content/uploads/2024/04/DAVID-WARNER-DC.jpg",
+    "playerImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnKWklMzzjFFLI_fKr0tbQf1vqarzn0YWDBfJImQhYSA&s=10",
+    "origin": "Afghanistan",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-arm leg break",
+    "battingStyle": "Right-handed",
+    "price": 400
+  },
+  {
+    "playerName": "Kane Williamson",
+    "playerImage": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/4330.png",
+    "origin": "New Zealand",
+    "playerType": "Batter",
+    "bowlingStyle": "Right-arm off break",
+    "battingStyle": "Right-handed",
+    "price": 390
+  },
+  {
+    "playerName": "David Warner",
+    "playerImage": "https://m.media-amazon.com/images/M/MV5BNzA3N2UyZDktNmZiNC00MTk3LWE0MTYtOTExYTQzZTliMTE4XkEyXkFqcGc@._V1_.jpg",
+    "origin": "Australia",
+    "playerType": "Batter",
+    "bowlingStyle": "Right-arm leg break",
+    "battingStyle": "Left-handed",
+    "price": 370
+  },
+  {
+    "playerName": "Rohit Sharma",
+    "playerImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTrkOkIEodOcdQ3RUKL5xc_jfbkGlom076sgpu1mjlE3Il5U65VbL7Fb-f&s=10",
+    "origin": "India",
+    "playerType": "Batter",
+    "bowlingStyle": "Right-arm off break",
+    "battingStyle": "Right-handed",
+    "price": 440
+  },
+  {
+    "playerName": "Pat Cummins",
+    "playerImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCsrmxzmiaIIcoCpbPSGGp5Vkr7nCZmtNqWHYTnOpZEg&s=10",
+    "origin": "Australia",
+    "playerType": "Bowler",
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Right-handed",
+    "price": 460
+  },
+  {
+    "playerName": "Shaheen Afridi",
+    "playerImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhyMaVHVZ5atIHlVoJpWGPE3vE-8QI7zSFqKbzrbM0Bw&s=10",
+    "origin": "Pakistan",
+    "playerType": "Bowler",
+    "bowlingStyle": "Left-arm fast",
+    "battingStyle": "Left-handed",
+    "price": 450
+  },
+  {
+    "playerName": "Andre Russell",
+    "playerImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfrT3ESOtio2_RrYLx65rXjE1TAWpdSnZsUM1rSmC4_DW8j56bHQzdJYI&s=10",
+    "origin": "West Indies",
+    "playerType": "All-rounder",
+    "bowlingStyle": "Right-arm fast",
+    "battingStyle": "Right-handed",
+    "price": 420
+  },
+  {
+    "playerName": "Hardik Pandya",
+    "playerImage": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/13203/63751.png",
+    "origin": "India",
+    "playerType": "All-rounder",
+    "bowlingStyle": "Right-arm medium-fast",
+    "battingStyle": "Right-handed",
+    "price": 430
+  },
+  {
+    "playerName": "Quinton de Kock",
+    "playerImage": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/13203/28035.png",
+    "origin": "South Africa",
+    "playerType": "Wicketkeeper-Batter",
+    "bowlingStyle": "Right-arm medium",
+    "battingStyle": "Left-handed",
+    "price": 400
+  },
+  {
+    "playerName": "Nicholas Pooran",
+    "playerImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTUumMdvHONPK8sMx3bhAtHgkPI6LozaZ0ibOx_KGmRQ&s=10",
+    "origin": "West Indies",
+    "playerType": "Wicketkeeper-Batter",
+    "bowlingStyle": "Right-arm off break",
+    "battingStyle": "Left-handed",
+    "price": 410
+  },
+  {
+    "playerName": "Rashid Khan",
+    "playerImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqIhJWmKwI2tKvO3fswlGg8NfNDHFtNlNXpx8qBqA5Sz0-oweZHgkrggW5&s=10",
     "origin": "Afghanistan",
     "playerType": "Bowler",
     "bowlingStyle": "Right-arm leg break",
